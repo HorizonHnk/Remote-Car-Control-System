@@ -173,8 +173,7 @@ config.jpeg_quality = 10;
 ## Contact Information 📫
 
 Henock Ngoy Mukonkole 
-- Email: henockmukonkole62@gmail.com
-- Phone: +27 60 281 0826
+- Email: hhnk3693@gmail.com
 - GitHub: [HorizonHnk/Remote-Car-Control-System](https://github.com/HorizonHnk/Remote-Car-Control-System.git
 )
 
